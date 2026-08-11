@@ -1,0 +1,13 @@
+{
+  "name": "inmorecursos-catastro-api",
+  "version": "1.0.0",
+  "description": "API de InmoRecursos para conexión con Catastro",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
